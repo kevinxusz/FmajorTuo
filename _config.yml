@@ -1,8 +1,8 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Tommy Chen
-language: en
+title: FmajorTuo
+subtitle: Something about FmajorTuo
+description: Replay while you can
+author: Tuo Liu
+language: zh-cn
 timezone: UTC
 url: https://hexo.io
 root: /
@@ -18,8 +18,8 @@ per_page: 0
 
 theme: navy
 deploy:
-  type: git
-  repo: git@github.com:hexojs/hexojs.github.io.git
+  type:
+  repo: 
 
 disqus_shortname: hexojs
 google_analytics: UA-4910098-10

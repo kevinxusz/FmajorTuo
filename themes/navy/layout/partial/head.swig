@@ -31,7 +31,7 @@
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+  <link href="{{ url_for('css/fonts.css')}}" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
   <!-- RSS -->
@@ -42,5 +42,4 @@
     twitter_site: config.twitter
   }) }}
   <!-- Google Analytics -->
-  {{ partial('google_analytics') }}
 </head>
