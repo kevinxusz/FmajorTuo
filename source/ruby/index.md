@@ -10,4 +10,14 @@ title: 开始
 
 ## Mac Ruby开发环境
 
-[看这里](https://ruby-china.org/wiki/install_ruby_guide)
+[here](http://railsapps.github.io/installrubyonrails-mac.html)
+*TODO*:
+- Step 1. Upgrade Your System to OS X El Capitan
+- Step 2. Install XCode Command Line Tools
+- Step 3. Configure Git
+- Step 4. Install Homebrew
+- Step 5. Install GPG
+- Step 6. Install RVM
+- Step 7. Install Ruby
+- Step 8. Update RubyGems
+- Step 9. Install Rails
